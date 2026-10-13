@@ -1,0 +1,27 @@
+﻿frontend/.streamlit/secrets.toml
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/secrets.toml
+
+# Python virtual environments
+.venv/
+.venv312/
+venv/
+**/.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Local project context and archives
+project_context.txt
+*.zip
+
+# Local databases and logs
+*.sqlite3
+*.db
+*.log
