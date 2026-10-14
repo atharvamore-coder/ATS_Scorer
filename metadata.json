@@ -1,0 +1,8 @@
+{
+  "name": "ATS Resume Scorer",
+  "description": "Optimize your resume for Applicant Tracking Systems with comprehensive scoring, skill validation, and job description matching.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
